@@ -20,8 +20,24 @@
     border: 2px solid whitesmoke;
 }
 .line-spacing img{
-    width: 10%;
-        
+    width: 10%;    
+}
+.anchor{
+    background-color: tomato;
+    border: 10px solid tomato;
+    text-align: center;
+    font-size: larger;
+    padding-right: 2px;
+}
+a{
+    color: white;
+    padding: 5px;
+    text-decoration: none;
+}
+a:hover{
+    background-color: brown;
+    display: inline-block;
+    font-weight: 700;
 }
 .red-color{
     color: red;
