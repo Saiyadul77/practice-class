@@ -1,0 +1,37 @@
+.SutonnyMJ{
+    font-family: DhakarchithiMJ;
+    font-size: 155px;
+    text-align: right;
+}
+.font-family{
+    font-family: Elephant;
+    text-align: right;
+    font-size: 80px;
+}
+#logo{
+    background-image: url(images/harvard.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 20%;
+}
+.line-spacing{
+    line-height: 0.1;
+    background-color: whitesmoke;
+    border: 2px solid whitesmoke;
+}
+.line-spacing img{
+    width: 10%;
+        
+}
+.red-color{
+    color: red;
+}
+.blue-color{
+    color: blue;
+}
+.school{
+    color: blueviolet;
+}
+.green-color{
+    color: green;
+}
