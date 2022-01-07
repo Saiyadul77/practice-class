@@ -29,12 +29,16 @@
     font-size: larger;
     padding-right: 2px;
 }
-a{
+.home{
+    text-align: right;
+    padding: 2px;
+}
+.header{
     color: white;
     padding: 5px;
     text-decoration: none;
 }
-a:hover{
+.header:hover{
     background-color: brown;
     display: inline-block;
     font-weight: 700;
